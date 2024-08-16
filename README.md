@@ -7,9 +7,9 @@
 
 <h2>:page_facing_up: Certifications</h2>
 
-- [Data Visualization with Tableau Specialization](https://imgur.com/a/LUj74AJ)
-- [Google Business Intelligence Specialization](https://imgur.com/a/8KsBfVP)
-- [Google Data Analytics Professional Certificate](https://imgur.com/a/SgioptJ)
+- [Data Visualization with Tableau Specialization](https://coursera.org/share/fbcd1fcbc897a03e4c7361cb425ff987)
+- [Google Business Intelligence Specialization](https://coursera.org/share/b220d469234d514434bb2af9c1783e3d)
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/b7d9fc14-4403-46f0-9427-202fb73198dc/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
