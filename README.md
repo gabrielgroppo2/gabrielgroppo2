@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Toronto Airbnb Business](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Toronto Airbnb Business](https://github.com/gabrielgroppo2/TorontoAirbnbBusiness)
 
 
 <h2>:page_facing_up: Certifications</h2>
 
-- [Data Visualization with Tableau Specialization](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Google Business Intelligence Specialization](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Data Visualization with Tableau Specialization](https://imgur.com/a/LUj74AJ)
+- [Google Business Intelligence Specialization](https://imgur.com/a/8KsBfVP)
 - [Google Data Analytics Professional Certificate](https://imgur.com/a/SgioptJ)
 
 <h2> 🤳 Connect with me:</h2>
